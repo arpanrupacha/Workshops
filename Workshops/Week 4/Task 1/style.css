@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(199, 188, 168);
+}
+h2 {
+background-color: rgb(29, 173, 231);
+}
+h3 {
+    background-color: rgb(143, 1, 1);
+    color: white;
+}
+h4 {
+    background-color: yellow;
+}
+h5 {
+    background-color: red;
+}
+h6 {
+    background-color: orange;
+}
